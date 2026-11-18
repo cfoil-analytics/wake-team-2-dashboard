@@ -41,7 +41,7 @@ One row per person. The same role may appear on more than one row.
 | Paul | paul-specht | Spec Lead |
 | Isabella | IsabellaKaswinkel | Design Lead |
 | Helen | helenzihuisun | Design Lead |
-| Angelo | Angeloherdz | Data Lead |
+| Angelo Hernandez | Angeloherdz | Data Lead |
 | Isabella | IsabellaKaswinkel | Pitch Lead |
 
 ## Side quests
