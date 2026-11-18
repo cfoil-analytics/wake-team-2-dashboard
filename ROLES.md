@@ -37,7 +37,12 @@ One row per person. The same role may appear on more than one row.
 
 | Name | GitHub username | Role |
 |---|---|---|
-| | | |
+| Colin | cfoil-analytics | Delivery Lead |
+| Paul | paul-specht | Spec Lead |
+| Isabella | IsabellaKaswinkel | Design Lead |
+| Helen | helenzihuisun | Design Lead |
+| Angelo | Angeloherdz | Data Lead |
+| Isabella | IsabellaKaswinkel | Pitch Lead |
 
 ## Side quests
 
